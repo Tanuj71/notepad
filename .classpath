@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="notepad/src"/>
+	<classpathentry kind="lib" path="notepad/dist/notepad.jar"/>
+	<classpathentry kind="output" path="notepad/build/classes"/>
+</classpath>
